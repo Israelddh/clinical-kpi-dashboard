@@ -1,0 +1,211 @@
+Study ID,Subject,Field Name,Field ID,Form Name,Form ID,Field Value,Field Value Decode
+FAKESTUDY_01,01_22132,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1984,1984
+FAKESTUDY_01,01_22132,Age,DM_AGE,Demographics,FORM_DM,42,42
+FAKESTUDY_01,01_22132,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,01_22132,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,HISP,Hispanic or Latino
+FAKESTUDY_01,01_22132,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,01_22132,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,158,158
+FAKESTUDY_01,01_22132,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,58,58
+FAKESTUDY_01,01_22132,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,23.2,23.2
+FAKESTUDY_01,01_22132,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,108,108
+FAKESTUDY_01,01_22132,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,64,64
+FAKESTUDY_01,01_22132,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,58,58
+FAKESTUDY_01,01_22132,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.2,36.2
+FAKESTUDY_01,01_22132,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,95,95%
+FAKESTUDY_01,01_23841,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1985,1985
+FAKESTUDY_01,01_23841,Age,DM_AGE,Demographics,FORM_DM,75,75
+FAKESTUDY_01,01_23841,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,01_23841,Race,DM_RACE,Demographics,FORM_DM,BLACK,Black or African American
+FAKESTUDY_01,01_23841,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,,
+FAKESTUDY_01,01_23841,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,01_23841,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,163,163
+FAKESTUDY_01,01_23841,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,64,64
+FAKESTUDY_01,01_23841,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,24.1,24.1
+FAKESTUDY_01,01_23841,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,115,115
+FAKESTUDY_01,01_23841,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,69,69
+FAKESTUDY_01,01_23841,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,62,62
+FAKESTUDY_01,01_23841,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.4,36.4
+FAKESTUDY_01,01_23841,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,96,96%
+FAKESTUDY_01,01_25677,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1978,1978
+FAKESTUDY_01,01_25677,Age,DM_AGE,Demographics,FORM_DM,48,48
+FAKESTUDY_01,01_25677,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,01_25677,Race,DM_RACE,Demographics,FORM_DM,ASIAN,Asian
+FAKESTUDY_01,01_25677,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,01_25677,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,01_25677,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,70,70
+FAKESTUDY_01,01_25677,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,24.8,24.8
+FAKESTUDY_01,01_25677,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,122,122
+FAKESTUDY_01,01_25677,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,74,74
+FAKESTUDY_01,01_25677,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,66,66
+FAKESTUDY_01,01_25677,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.5,36.5
+FAKESTUDY_01,01_25677,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,97,97%
+FAKESTUDY_01,01_27405,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1975,1975
+FAKESTUDY_01,01_27405,Age,DM_AGE,Demographics,FORM_DM,51,51
+FAKESTUDY_01,01_27405,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,01_27405,Race,DM_RACE,Demographics,FORM_DM,OTHER,Other
+FAKESTUDY_01,01_27405,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,01_27405,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,01_27405,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,173,173
+FAKESTUDY_01,01_27405,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,76,76
+FAKESTUDY_01,01_27405,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,25.4,25.4
+FAKESTUDY_01,01_27405,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,129,129
+FAKESTUDY_01,01_27405,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,79,79
+FAKESTUDY_01,01_27405,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,70,70
+FAKESTUDY_01,01_27405,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.7,36.7
+FAKESTUDY_01,01_27405,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,,
+FAKESTUDY_01,01_28912,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1972,1972
+FAKESTUDY_01,01_28912,Age,DM_AGE,Demographics,FORM_DM,54,54
+FAKESTUDY_01,01_28912,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,01_28912,Race,DM_RACE,Demographics,FORM_DM,WHITE,White
+FAKESTUDY_01,01_28912,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,01_28912,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,01_28912,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,178,178
+FAKESTUDY_01,01_28912,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,,
+FAKESTUDY_01,01_28912,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,25.9,25.9
+FAKESTUDY_01,01_28912,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,136,136
+FAKESTUDY_01,01_28912,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,84,84
+FAKESTUDY_01,01_28912,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,74,74
+FAKESTUDY_01,01_28912,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.8,36.8
+FAKESTUDY_01,01_28912,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,99,99%
+FAKESTUDY_01,02_20319,Birth Year,DM_BRTHYR,Demographics,FORM_DM,,
+FAKESTUDY_01,02_20319,Age,DM_AGE,Demographics,FORM_DM,57,57
+FAKESTUDY_01,02_20319,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,02_20319,Race,DM_RACE,Demographics,FORM_DM,BLACK,Black or African American
+FAKESTUDY_01,02_20319,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,HISP,Hispanic or Latino
+FAKESTUDY_01,02_20319,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,02_20319,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,183,183
+FAKESTUDY_01,02_20319,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,88,88
+FAKESTUDY_01,02_20319,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,26.3,26.3
+FAKESTUDY_01,02_20319,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,143,143
+FAKESTUDY_01,02_20319,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,89,89
+FAKESTUDY_01,02_20319,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,78,78
+FAKESTUDY_01,02_20319,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,37.0,37.0
+FAKESTUDY_01,02_20319,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,95,95%
+FAKESTUDY_01,02_22648,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1966,1966
+FAKESTUDY_01,02_22648,Age,DM_AGE,Demographics,FORM_DM,60,60
+FAKESTUDY_01,02_22648,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,02_22648,Race,DM_RACE,Demographics,FORM_DM,ASIAN,Asian
+FAKESTUDY_01,02_22648,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,02_22648,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,02_22648,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,188,188
+FAKESTUDY_01,02_22648,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,1250,1250
+FAKESTUDY_01,02_22648,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,26.6,26.6
+FAKESTUDY_01,02_22648,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,108,108
+FAKESTUDY_01,02_22648,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,66,66
+FAKESTUDY_01,02_22648,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,82,82
+FAKESTUDY_01,02_22648,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,37.1,37.1
+FAKESTUDY_01,02_22648,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,96,96%
+FAKESTUDY_01,02_24970,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1963,1963
+FAKESTUDY_01,02_24970,Age,DM_AGE,Demographics,FORM_DM,63,63
+FAKESTUDY_01,02_24970,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,02_24970,Race,DM_RACE,Demographics,FORM_DM,OTHER,Other
+FAKESTUDY_01,02_24970,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,02_24970,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,02_24970,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,161,161
+FAKESTUDY_01,02_24970,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,100,100
+FAKESTUDY_01,02_24970,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,38.6,38.6
+FAKESTUDY_01,02_24970,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,115,115
+FAKESTUDY_01,02_24970,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,86,86
+FAKESTUDY_01,02_24970,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,37.2,37.2
+FAKESTUDY_01,02_24970,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,97,97%
+FAKESTUDY_01,02_26553,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1960,1960
+FAKESTUDY_01,02_26553,Age,DM_AGE,Demographics,FORM_DM,66,66
+FAKESTUDY_01,02_26553,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,02_26553,Race,DM_RACE,Demographics,FORM_DM,WHITE,White
+FAKESTUDY_01,02_26553,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,02_26553,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,02_26553,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,166,166
+FAKESTUDY_01,02_26553,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,61,61
+FAKESTUDY_01,02_26553,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,22.1,22.1
+FAKESTUDY_01,02_26553,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,122,122
+FAKESTUDY_01,02_26553,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,76,76
+FAKESTUDY_01,02_26553,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,90,90
+FAKESTUDY_01,02_26553,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.2,36.2
+FAKESTUDY_01,02_26553,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,999,999%
+FAKESTUDY_01,02_29104,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1957,1957
+FAKESTUDY_01,02_29104,Age,DM_AGE,Demographics,FORM_DM,69,69
+FAKESTUDY_01,02_29104,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,02_29104,Race,DM_RACE,Demographics,FORM_DM,BLACK,Black or African American
+FAKESTUDY_01,02_29104,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,02_29104,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,02_29104,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,170,170
+FAKESTUDY_01,02_29104,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,70,70
+FAKESTUDY_01,02_29104,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,45.0,45.0
+FAKESTUDY_01,02_29104,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,129,129
+FAKESTUDY_01,02_29104,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,81,81
+FAKESTUDY_01,02_29104,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,94,94
+FAKESTUDY_01,02_29104,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.4,36.4
+FAKESTUDY_01,02_29104,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,99,99%
+FAKESTUDY_01,03_21488,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1982,1982
+FAKESTUDY_01,03_21488,Age,DM_AGE,Demographics,FORM_DM,44,44
+FAKESTUDY_01,03_21488,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,03_21488,Race,DM_RACE,Demographics,FORM_DM,ASIAN,Asian
+FAKESTUDY_01,03_21488,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,HISP,Hispanic or Latino
+FAKESTUDY_01,03_21488,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,03_21488,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,176,176
+FAKESTUDY_01,03_21488,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,73,73
+FAKESTUDY_01,03_21488,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,23.6,23.6
+FAKESTUDY_01,03_21488,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,136,136
+FAKESTUDY_01,03_21488,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,86,86
+FAKESTUDY_01,03_21488,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,60,60
+FAKESTUDY_01,03_21488,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,,
+FAKESTUDY_01,03_21488,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,95,95%
+FAKESTUDY_01,03_23762,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1979,1979
+FAKESTUDY_01,03_23762,Age,DM_AGE,Demographics,FORM_DM,47,47
+FAKESTUDY_01,03_23762,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,03_23762,Race,DM_RACE,Demographics,FORM_DM,OTHER,Other
+FAKESTUDY_01,03_23762,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,03_23762,Country,DM_COUNTRY,Demographics,FORM_DM,,
+FAKESTUDY_01,03_23762,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,181,181
+FAKESTUDY_01,03_23762,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,79,79
+FAKESTUDY_01,03_23762,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,24.1,24.1
+FAKESTUDY_01,03_23762,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,143,143
+FAKESTUDY_01,03_23762,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,91,91
+FAKESTUDY_01,03_23762,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,64,64
+FAKESTUDY_01,03_23762,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.7,36.7
+FAKESTUDY_01,03_23762,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,96,96%
+FAKESTUDY_01,03_25839,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1976,1976
+FAKESTUDY_01,03_25839,Age,DM_AGE,Demographics,FORM_DM,50,50
+FAKESTUDY_01,03_25839,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,03_25839,Race,DM_RACE,Demographics,FORM_DM,WHITE,White
+FAKESTUDY_01,03_25839,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,03_25839,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,03_25839,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,186,186
+FAKESTUDY_01,03_25839,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,85,85
+FAKESTUDY_01,03_25839,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,24.6,24.6
+FAKESTUDY_01,03_25839,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,302,302
+FAKESTUDY_01,03_25839,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,68,68
+FAKESTUDY_01,03_25839,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,68,68
+FAKESTUDY_01,03_25839,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,36.8,36.8
+FAKESTUDY_01,03_25839,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,97,97%
+FAKESTUDY_01,03_27611,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1973,1973
+FAKESTUDY_01,03_27611,Age,DM_AGE,Demographics,FORM_DM,53,53
+FAKESTUDY_01,03_27611,Sex,DM_SEX,Demographics,FORM_DM,M,Male
+FAKESTUDY_01,03_27611,Race,DM_RACE,Demographics,FORM_DM,BLACK,Black or African American
+FAKESTUDY_01,03_27611,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,03_27611,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,03_27611,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,159,159
+FAKESTUDY_01,03_27611,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,91,91
+FAKESTUDY_01,03_27611,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,36.0,36.0
+FAKESTUDY_01,03_27611,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,115,115
+FAKESTUDY_01,03_27611,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,73,73
+FAKESTUDY_01,03_27611,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,0,0
+FAKESTUDY_01,03_27611,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,37.0,37.0
+FAKESTUDY_01,03_27611,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,98,98%
+FAKESTUDY_01,03_29943,Birth Year,DM_BRTHYR,Demographics,FORM_DM,1970,1970
+FAKESTUDY_01,03_29943,Age,DM_AGE,Demographics,FORM_DM,56,56
+FAKESTUDY_01,03_29943,Sex,DM_SEX,Demographics,FORM_DM,F,Female
+FAKESTUDY_01,03_29943,Race,DM_RACE,Demographics,FORM_DM,ASIAN,Asian
+FAKESTUDY_01,03_29943,Ethnicity,DM_ETHNIC,Demographics,FORM_DM,NOT_HISP,Not Hispanic or Latino
+FAKESTUDY_01,03_29943,Country,DM_COUNTRY,Demographics,FORM_DM,USA,United States
+FAKESTUDY_01,03_29943,Height (cm),VS_HEIGHT_CM,Vital Signs - Screening,FORM_VS_SCREEN,164,164
+FAKESTUDY_01,03_29943,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,97,97
+FAKESTUDY_01,03_29943,BMI (kg/m2),VS_BMI,Vital Signs - Screening,FORM_VS_SCREEN,36.1,36.1
+FAKESTUDY_01,03_29943,Systolic Blood Pressure (mmHg),VS_SYSBP,Vital Signs - Screening,FORM_VS_SCREEN,122,122
+FAKESTUDY_01,03_29943,Diastolic Blood Pressure (mmHg),VS_DIABP,Vital Signs - Screening,FORM_VS_SCREEN,78,78
+FAKESTUDY_01,03_29943,Heart Rate (beats/min),VS_HR,Vital Signs - Screening,FORM_VS_SCREEN,76,76
+FAKESTUDY_01,03_29943,Temperature (C),VS_TEMP_C,Vital Signs - Screening,FORM_VS_SCREEN,18.2,18.2
+FAKESTUDY_01,03_29943,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,99,99%
+FAKESTUDY_01,01_27405,Blood Oxygen Saturation (%),VS_O2SAT,Vital Signs - Screening,FORM_VS_SCREEN,97,97%
+FAKESTUDY_01,02_22648,Weight (kg),VS_WEIGHT_KG,Vital Signs - Screening,FORM_VS_SCREEN,1250,1250
+FAKESTUDY_01,03_23762,Country,DM_COUNTRY,Demographics,FORM_DM,,

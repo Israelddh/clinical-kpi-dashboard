@@ -1,0 +1,22 @@
+Field ID,Form ID,Query ID,Message ID,Message Status,User,Message,DTC,Query DTC
+VS_TEMP_C,FORM_VS_SCREEN,QRY-0001,QRY-0001-MSG-001,Open,data.manager@curadel.example,03_21488: Missing value. Please provide the value or a reason not done.,2026-04-01T11:00:00,2026-04-01T11:00:00
+VS_TEMP_C,FORM_VS_SCREEN,QRY-0001,QRY-0001-MSG-002,Answered,site.coordinator@example-site.com,03_21488: Site reviewed source records.,2026-04-02T05:00:00,2026-04-01T11:00:00
+VS_TEMP_C,FORM_VS_SCREEN,QRY-0001,QRY-0001-MSG-003,Closed,data.manager@curadel.example,03_21488: Reason not done: Thermometer unavailable before subject left site,2026-04-02T13:00:00,2026-04-01T11:00:00
+DM_ETHNIC,FORM_DM,QRY-0002,QRY-0002-MSG-001,Open,data.manager@curadel.example,01_23841: Missing value. Please provide the value or a reason not done.,2026-04-01T13:00:00,2026-04-01T13:00:00
+DM_ETHNIC,FORM_DM,QRY-0002,QRY-0002-MSG-002,Answered,site.coordinator@example-site.com,01_23841: Site reviewed source records.,2026-04-02T07:00:00,2026-04-01T13:00:00
+DM_ETHNIC,FORM_DM,QRY-0002,QRY-0002-MSG-003,Closed,data.manager@curadel.example,01_23841: Reason not done: Subject declined to answer,2026-04-02T15:00:00,2026-04-01T13:00:00
+VS_O2SAT,FORM_VS_SCREEN,QRY-0003,QRY-0003-MSG-001,Open,data.manager@curadel.example,01_27405: Missing value. Please provide the value or a reason not done.,2026-04-01T15:00:00,2026-04-01T15:00:00
+VS_O2SAT,FORM_VS_SCREEN,QRY-0003,QRY-0003-MSG-002,Answered,site.coordinator@example-site.com,01_27405: Site is checking source documentation.,2026-04-02T11:00:00,2026-04-01T15:00:00
+DM_COUNTRY,FORM_DM,QRY-0004,QRY-0004-MSG-001,Open,data.manager@curadel.example,03_23762: Missing value. Please provide the value or a reason not done.,2026-04-01T17:00:00,2026-04-01T17:00:00
+DM_COUNTRY,FORM_DM,QRY-0004,QRY-0004-MSG-002,Answered,site.coordinator@example-site.com,03_23762: Site is checking source documentation.,2026-04-02T13:00:00,2026-04-01T17:00:00
+DM_BRTHYR,FORM_DM,QRY-0005,QRY-0005-MSG-001,Open,data.manager@curadel.example,02_20319: Missing value. Please provide the value or a reason not done.,2026-04-01T19:00:00,2026-04-01T19:00:00
+DM_BRTHYR,FORM_DM,QRY-0005,QRY-0005-MSG-002,Answered,site.coordinator@example-site.com,02_20319: Site is checking source documentation.,2026-04-02T15:00:00,2026-04-01T19:00:00
+VS_WEIGHT_KG,FORM_VS_SCREEN,QRY-0006,QRY-0006-MSG-001,Open,data.manager@curadel.example,01_28912: Missing value. Please provide the value or a reason not done.,2026-04-01T21:00:00,2026-04-01T21:00:00
+VS_WEIGHT_KG,FORM_VS_SCREEN,QRY-0006,QRY-0006-MSG-002,Answered,site.coordinator@example-site.com,01_28912: Site reviewed source records.,2026-04-02T15:00:00,2026-04-01T21:00:00
+VS_WEIGHT_KG,FORM_VS_SCREEN,QRY-0006,QRY-0006-MSG-003,Closed,data.manager@curadel.example,01_28912: Reason not done: Subject unable to stand safely for weight measurement,2026-04-02T23:00:00,2026-04-01T21:00:00
+VS_WEIGHT_KG,FORM_VS_SCREEN,QRY-0007,QRY-0007-MSG-001,Open,data.manager@curadel.example,02_22648: Weight value 1250 kg appears impossible. Please verify/correct.,2026-04-01T23:00:00,2026-04-01T23:00:00
+VS_O2SAT,FORM_VS_SCREEN,QRY-0008,QRY-0008-MSG-001,Open,data.manager@curadel.example,02_26553: Blood oxygen saturation of 999% is impossible. Please verify/correct.,2026-04-02T01:00:00,2026-04-02T01:00:00
+VS_BMI,FORM_VS_SCREEN,QRY-0009,QRY-0009-MSG-001,Open,data.manager@curadel.example,02_29104: BMI of 45.0 is inconsistent with height 170 cm and weight 70 kg.,2026-04-02T03:00:00,2026-04-02T03:00:00
+DM_AGE,FORM_DM,QRY-0010,QRY-0010-MSG-001,Open,data.manager@curadel.example,01_23841: Age 75 is inconsistent with birth year 1985 for the study year.,2026-04-02T05:00:00,2026-04-02T05:00:00
+DM_AGE,FORM_DM,QRY-0010,QRY-0010-MSG-002,Answered,site.coordinator@example-site.com,01_23841: Site response received; correction pending.,2026-04-02T04:00:00,2026-04-02T05:00:00
+VS_O2SAT,FORM_VS_SCREEN,QRY-0011,QRY-0011-MSG-001,Open,data.manager@curadel.example,01_27405: Duplicate O2 saturation entries detected for Screening.,2026-04-02T07:00:00,2026-04-02T07:00:00
