@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Clinical Data Quality & EDC Query Management Dashboard
 
 ## Project Overview
