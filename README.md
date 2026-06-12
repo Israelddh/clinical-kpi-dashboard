@@ -1,9 +1,9 @@
 
-# 🧬 Clinical Data Quality & EDC Query Management Dashboard
+#  Clinical Data Quality & EDC Query Management Dashboard
 
 ---
 
-## 🧭 Project Overview
+##  Project Overview
 
 This project simulates a **Clinical Data Management (CDM) workflow** based on Electronic Data Capture (EDC) systems used in clinical trials.
 
@@ -16,7 +16,7 @@ The workflow reflects real-world processes in:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Identify clinical data quality issues (missing values, inconsistencies, implausible measurements)
 - Simulate an EDC query lifecycle (Open → Answered → Closed)
@@ -26,7 +26,7 @@ The workflow reflects real-world processes in:
 
 ---
 
-## 📊 Dashboard Storytelling
+##  Dashboard Storytelling
 
 This project follows a progressive analytical workflow:
 
@@ -34,7 +34,7 @@ This project follows a progressive analytical workflow:
 
 ---
 
-## 1️⃣ EDC Data Overview – “Understanding the dataset”
+## 1️ EDC Data Overview – “Understanding the dataset”
 
 ![EDC Data Overview](images/EDC%20Data%20Overview.png)
 
@@ -44,11 +44,11 @@ This dashboard provides a **high-level structural view of the dataset**, focusin
 - Distribution of clinical fields
 - Overall data structure validation
 
-👉 Purpose: establish baseline understanding before deeper analysis.
+ Purpose: establish baseline understanding before deeper analysis.
 
 ---
 
-## 2️⃣ Discrepancies Dashboard – “Detecting data quality issues”
+##  Discrepancies Dashboard – “Detecting data quality issues”
 
 ![Discrepancies Dashboard](images/Discrepancies.png)
 
@@ -59,11 +59,11 @@ This section focuses on **clinical data quality monitoring and anomaly detection
 - Cross-variable inconsistencies (e.g., BMI validation)
 - Query lifecycle tracking (Open / Answered / Closed)
 
-👉 Purpose: identify and manage data integrity issues in clinical workflows.
+ Purpose: identify and manage data integrity issues in clinical workflows.
 
 ---
 
-## 3️⃣ Subject Drilldown – “Patient-level clinical inspection”
+##  Subject Drilldown – “Patient-level clinical inspection”
 
 ![Subject Drilldown](images/Subject%20Drilldown.png)
 
@@ -74,11 +74,11 @@ This dashboard enables **granular subject-level exploration**, including:
 - Subject-specific discrepancies
 - Cross-subject comparison
 
-👉 Purpose: support clinical validation at patient level.
+ Purpose: support clinical validation at patient level.
 
 ---
 
-## 🧠 Key Analytical Concepts
+##  Key Analytical Concepts
 
 This project demonstrates applied understanding of:
 
@@ -90,7 +90,7 @@ This project demonstrates applied understanding of:
 
 ---
 
-## ⚠️ Data Quality Considerations
+##  Data Quality Considerations
 
 The analysis simulates real-world clinical data issues such as:
 
@@ -102,7 +102,7 @@ The analysis simulates real-world clinical data issues such as:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python (pandas, data preprocessing & analysis)
 - Jupyter Notebook
@@ -112,7 +112,7 @@ The analysis simulates real-world clinical data issues such as:
 
 ---
 
-## 🧭 Professional Relevance
+##  Professional Relevance
 
 This project is relevant for roles in:
 
@@ -124,13 +124,13 @@ This project is relevant for roles in:
 
 ---
 
-## 💡 Key Takeaway
+##  Key Takeaway
 
 This project demonstrates how clinical data can be structured, validated, and analyzed through a **real-world EDC-style workflow**, bridging raw healthcare data with actionable quality insights using dashboarding and analytical reasoning.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 📧 Email: mailto:israelddh@hotmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/israel-duarte/  
