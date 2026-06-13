@@ -1,137 +1,206 @@
+# Clinical Data Quality & EDC Query Management Dashboard
 
-#  Clinical Data Quality & EDC Query Management Dashboard
+## Overview
 
----
+This project simulates a Clinical Data Management (CDM) workflow using a simplified Electronic Data Capture (EDC) dataset.
 
-##  Project Overview
+The goal is to explore how clinical data issues are identified, reviewed, and managed during data cleaning activities. The project focuses on data quality checks, discrepancy tracking, and subject-level review, similar to processes used in clinical research and healthcare data environments.
 
-This project simulates a **Clinical Data Management (CDM) workflow** based on Electronic Data Capture (EDC) systems used in clinical trials.
+The workflow is designed around a common clinical data review process:
 
-It demonstrates how clinical data is **reviewed, validated, and cleaned through a structured query lifecycle**, and how subject-level data is explored for quality and consistency checks.
-
-The workflow reflects real-world processes in:
-- Clinical Research Organizations (CROs)
-- Pharmaceutical clinical trials
-- Real-World Data (RWD) environments
+**Dataset overview → Data quality assessment → Query review → Subject-level investigation**
 
 ---
 
-##  Objectives
+## Project Objectives
 
-- Identify clinical data quality issues (missing values, inconsistencies, implausible measurements)
+The main objectives of this project are:
+
+- Assess clinical dataset completeness and consistency
+- Identify missing, inconsistent, or implausible values
 - Simulate an EDC query lifecycle (Open → Answered → Closed)
-- Detect cross-field inconsistencies (e.g., BMI validation logic)
-- Enable subject-level clinical review and exploration
-- Build structured dashboards for clinical data monitoring in Power BI
+- Explore subject-level clinical information
+- Create dashboards that support data review and quality monitoring
 
 ---
 
-##  Dashboard Storytelling
+## Dataset
 
-This project follows a progressive analytical workflow:
+The project uses two simulated clinical datasets.
 
-> Global Overview → Data Quality Detection → Subject-Level Investigation
+### EDC Query Dataset
+
+Represents queries generated during clinical data review.
+
+Includes:
+
+- Field-level discrepancies
+- Query status
+- Data manager and site responses
+- Query timestamps
+- Resolution workflow
+
+Example query statuses:
+
+- Open
+- Answered
+- Closed
 
 ---
 
-## 1️ EDC Data Overview – “Understanding the dataset”
+### Subject-Level Clinical Dataset
+
+Contains structured clinical information including:
+
+- Demographics
+- Vital signs
+- Derived measurements (such as BMI)
+- Subject-level clinical variables
+
+The dataset is used to evaluate completeness and identify potential data quality issues.
+
+---
+
+# Dashboards
+
+## EDC Data Overview
 
 ![EDC Data Overview](images/EDC%20Data%20Overview.png)
 
-This dashboard provides a **high-level structural view of the dataset**, focusing on:
+Provides an initial overview of the dataset before quality review.
 
+Key elements:
+
+- Available clinical variables
 - Dataset completeness
-- Distribution of clinical fields
-- Overall data structure validation
+- Distribution of collected information
+- General data structure
 
- Purpose: establish baseline understanding before deeper analysis.
-
----
-
-##  Discrepancies Dashboard – “Detecting data quality issues”
-
-![Discrepancies Dashboard](images/Discrepancies.png)
-
-This section focuses on **clinical data quality monitoring and anomaly detection**, including:
-
-- Missing data patterns
-- Implausible clinical values
-- Cross-variable inconsistencies (e.g., BMI validation)
-- Query lifecycle tracking (Open / Answered / Closed)
-
- Purpose: identify and manage data integrity issues in clinical workflows.
+This view represents the first step in understanding the data before performing validation checks.
 
 ---
 
-##  Subject Drilldown – “Patient-level clinical inspection”
+## Discrepancies Dashboard
+
+![Discrepancies](images/Discrepancies.png)
+
+Focuses on data quality monitoring.
+
+The dashboard highlights:
+
+- Missing values
+- Implausible measurements
+- Cross-field inconsistencies
+- Query status distribution
+
+Examples include validation checks such as comparing BMI values against height and weight information.
+
+---
+
+## Subject Drilldown Dashboard
 
 ![Subject Drilldown](images/Subject%20Drilldown.png)
 
-This dashboard enables **granular subject-level exploration**, including:
+Allows detailed review of individual subjects.
 
-- Individual patient profiles
-- Vital signs and demographic review
-- Subject-specific discrepancies
-- Cross-subject comparison
+Includes:
 
- Purpose: support clinical validation at patient level.
+- Subject demographics
+- Vital signs
+- Available clinical fields
+- Related discrepancies and queries
 
----
-
-##  Key Analytical Concepts
-
-This project demonstrates applied understanding of:
-
-- Clinical data validation frameworks
-- EDC query lifecycle management
-- Rule-based data quality checks
-- Subject-level clinical analytics
-- Exploratory data analysis in healthcare datasets
+This view represents the type of investigation performed when reviewing specific records.
 
 ---
 
-##  Data Quality Considerations
+## Data Quality Approach
 
-The analysis simulates real-world clinical data issues such as:
+The project considers common issues found in clinical datasets:
 
-- Missing demographic and clinical fields
-- Physiological outliers and implausible values
-- Logical inconsistencies between variables (e.g. BMI vs height/weight)
-- Duplicate or redundant records
-- Workflow delays in query resolution
+- Missing data
+- Out-of-range values
+- Logical inconsistencies between variables
+- Duplicate records
+- Unresolved or delayed queries
 
----
-
-##  Tools & Technologies
-
-- Python (pandas, data preprocessing & analysis)
-- Jupyter Notebook
-- Matplotlib / Seaborn
-- Power BI (dashboard design layer)
-- Excel (data inspection and validation)
+The focus is not only on visualisation, but on improving confidence in the data before analysis.
 
 ---
 
-##  Professional Relevance
+## Analytical Workflow
 
-This project is relevant for roles in:
+The workflow followed in this project:
 
+1. Load and inspect clinical datasets
+2. Review structure and completeness
+3. Identify data quality issues
+4. Analyse discrepancies and query status
+5. Explore subject-level records
+6. Present findings through interactive dashboards
+
+---
+
+## Tools
+
+- Python (pandas)
+- Power BI
+- DAX
+- Git / GitHub
+
+---
+
+## Clinical Data Perspective
+
+Clinical datasets require more than basic analysis.
+
+Before results can be interpreted, data needs to be:
+
+- Complete
+- Consistent
+- Traceable
+- Validated
+
+This project focuses on the data review layer that supports reliable clinical and healthcare analytics.
+
+---
+
+## Limitations
+
+This project uses simulated datasets and focuses on demonstrating analytical workflows.
+
+It does not represent a validated clinical trial database or regulatory-compliant EDC system.
+
+---
+
+## Possible Extensions
+
+Future improvements could include:
+
+- Automated validation rules
+- Query turnaround time analysis
+- Site-level data quality metrics
+- Subject risk scoring
+- Trend analysis of data quality issues
+
+---
+
+## Relevance
+
+This project is relevant to:
+
+- Clinical Data Analyst roles
 - Clinical Data Management (CDM)
-- Clinical Data Analyst / Clinical Data Scientist
-- Real-World Data (RWD) Analytics
+- Real-World Data (RWD) analytics
+- Healthcare analytics
 - Pharmaceutical and CRO environments
-- Healthcare data quality roles
 
 ---
 
-##  Key Takeaway
+## Contact
 
-This project demonstrates how clinical data can be structured, validated, and analyzed through a **real-world EDC-style workflow**, bridging raw healthcare data with actionable quality insights using dashboarding and analytical reasoning.
+Email: israelddh@hotmail.com
 
----
+LinkedIn: https://www.linkedin.com/in/israel-duarte/
 
-##  Contact
-
-📧 Email: mailto:israelddh@hotmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/israel-duarte/  
-🆔 ORCID: https://orcid.org/0000-0001-5427-6019  
+ORCID: https://orcid.org/0000-0001-5427-6019
